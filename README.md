@@ -16,7 +16,7 @@ We used the HCI 4D LF benchmark for training and evaluation.Please refer to the 
 
 ## train
 
-将monodepth_main_zhoubo_mask_v1.py文件中的参数train_or_test设置为0
+In monodepth_main_zhoubo_mask_v1.py, set train_or_test=0
 
 ```
 python monodepth_main_zhoubo_mask_v1
@@ -24,7 +24,7 @@ python monodepth_main_zhoubo_mask_v1
 
 ## test
 
-将monodepth_main_zhoubo_mask_v1.py文件中的参数train_or_test设置为1
+In monodepth_main_zhoubo_mask_v1.py, set train_or_test=1
 
 ```
 python monodepth_main_zhoubo_mask_v1
