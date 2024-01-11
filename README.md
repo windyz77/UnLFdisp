@@ -1,6 +1,6 @@
 # UnLFdisp
 
-This is the repository for paper "" published on
+Wenhui Zhou, Lili Lin*, Yongjie Hong, Qiujian Li, Xingfa Shen* and Ercan Engin Kuruoglu, Beyond Photometric Consistency: Geometry-based Occlusion-aware Unsupervised Light Field Disparity Estimation. IEEE Transactions on Neural Networks and Learning Systems, 2023.
 
 ## Requirements
 
